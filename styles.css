@@ -1,0 +1,111 @@
+a img {
+    border: none;
+    display: block;
+    margin: 20px auto;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f0f0f0;
+}
+main{
+    background-color: lightgray;
+}
+header {
+    background-image: url('header-bg1.jpg');
+    background-size: cover;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 20px 0 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table,
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.image-left {
+    float: left;
+    margin: 0 15px 15px 0;
+}
+
+.image-right {
+    float: right;
+    margin: 0 0 15px 15px;
+}
+
+ul {
+    list-style: disc;
+    padding-left: 20px;
+}
+
+ol {
+    list-style: decimal;
+    padding-left: 20px;
+}
+
+a img {
+    border: none;
+}
+.image-1{
+    width:400px;
+}
