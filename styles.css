@@ -109,3 +109,24 @@ a img {
 .image-1{
     width:400px;
 }
+.lviv{
+    align-items: left;
+    width:400px;
+    margin: 10px;
+}
+.lvivbody{
+    background-color:lavenderblush;
+}
+.lvivmain{
+    background-color: lavenderblush;
+}
+.vin{
+            width: 400px;
+            margin: 10px;
+}
+.tableo{
+    background-color: rgb(250, 250, 228);
+}
+.vinimg{
+    height: 400px;
+}
